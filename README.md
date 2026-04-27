@@ -4,6 +4,12 @@ Aplicativo Android que exibe a **cotação em tempo real do Bitcoin (BTC)** em r
 
 ---
 
+# 📱 Prints das telas do app em execução
+<img width="281" height="627" alt="Captura de tela 2026-04-27 165119" src="https://github.com/user-attachments/assets/c9d57cbd-dabe-44f2-8b07-ab7d80d13328" />
+<img width="286" height="636" alt="Captura de tela 2026-04-27 165133" src="https://github.com/user-attachments/assets/5386a473-f0ff-47e2-9ac6-c02a5c240f29" />
+
+
+
 ## 🚀 Para que serve
 
 O Crypto Monitor permite acompanhar, com um toque, as informações mais importantes do Bitcoin no mercado brasileiro:
